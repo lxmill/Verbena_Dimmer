@@ -1,11 +1,11 @@
 # Verbena_Dimmer
 
 Projecto:
-VERBENA Dimmer
+VERBENA Dimmer  
 Recursos utilizados:
-Fabricação Digital, M5Stack, OSC Android App
+Fabricação Digital, M5Stack, OSC Android App  
 Técnicas:
-Corte Laser, Programação, Electrónica, Computação Física
+Corte Laser, Programação, Electrónica, Computação Física  
 Colaboração:
 MILL, Mauricio Martins, Shiaron Carolina Moncaleano
  
